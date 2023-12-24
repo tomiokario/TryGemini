@@ -1,4 +1,8 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/tomiokario/TryGemini/blob/main/TryGemini.ipynb)
+
 # TryGemini
+
 **Gemini APIを試す**
 - Bardに使用されるGoogle社の言語モデルGemini ProをGoogle Colab上で動かします．
 - 2023/12/24現在，1分間に60リクエストまで無料で呼び出せます．[1]
